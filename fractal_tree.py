@@ -47,9 +47,9 @@ def keyboard(key, x, y):
     elif key == b'e':
         angle_turn -= 0.5
     
-    if key == b's':
+    elif key == b's':
         len_multiplier -= 0.01
-    if key == b'w':
+    elif key == b'w':
         len_multiplier += 0.01
     glutPostRedisplay()
 
