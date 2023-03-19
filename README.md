@@ -29,7 +29,7 @@ You can adjust the angle and length of the branches using the keyboard:
 The fractal tree will update in real-time as you adjust its parameters.
 ## Demo
 
-![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-602a73770a.gif)
+![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-37137fe0c5.gif)
 
 
 
