@@ -1,9 +1,4 @@
-
-<<<<<<< HEAD
-Fractal Tree
-=======
 ## Fractal Tree
->>>>>>> 780f7fcc466a449d6296be45f8a08329de2037fc
 
 The tree is drawn recursively using OpenGL's GL_LINES primitive, and its angle and length can be adjusted by the user using the keyboard.
 
